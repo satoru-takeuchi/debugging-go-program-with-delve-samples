@@ -1,3 +1,4 @@
 go.mod
 go.sum
 */__debug_bin
+*/core*
